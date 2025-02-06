@@ -1,10 +1,10 @@
 import streamlit as st
 
 # Título
-st.title("Sistema Experto de Asesoramiento Financiero")
+st.title("El papu peres")
 
 # Entrada de datos
-st.header("1. Entrada de Datos")
+st.header("1. El papu peres")
 ingresos = st.number_input("¿Cuál es tu ingreso mensual después de impuestos?")
 gastos = st.number_input("¿Cuáles son tus gastos mensuales fijos?")
 deudas = st.number_input("¿Tienes deudas? Si es así, ¿cuánto debes?")
